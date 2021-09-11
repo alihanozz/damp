@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/daxpy/__init__.py
+src/daxpy.egg-info/PKG-INFO
+src/daxpy.egg-info/SOURCES.txt
+src/daxpy.egg-info/dependency_links.txt
+src/daxpy.egg-info/top_level.txt

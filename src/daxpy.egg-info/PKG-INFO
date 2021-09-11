@@ -1,3 +1,20 @@
+Metadata-Version: 2.1
+Name: daxpy
+Version: 0.2
+Summary: A pre-machine-learning model package
+Home-page: https://github.com/alihanozz/data_analyzer
+Author: Alihan ÖZ
+Author-email: alihanozmm@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/alihanozz/data_analyzer/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # daxpy
 
 A pre-machine-learning model package.
@@ -59,3 +76,4 @@ for num_col in num_cols:
     mp.num_summ(mp.data1, num_col)
 
 ```
+
