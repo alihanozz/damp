@@ -1,8 +1,8 @@
 LICENSE
 README.md
+damp
 setup.py
 code/__init__.py
-code/damp.py
 damp.egg-info/PKG-INFO
 damp.egg-info/SOURCES.txt
 damp.egg-info/dependency_links.txt
