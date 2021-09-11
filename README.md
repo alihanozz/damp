@@ -1,2 +1,3 @@
-# data_analyzer
-Automatically Analyze Data
+# damp
+
+A pre-machine-learning model package.
