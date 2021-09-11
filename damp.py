@@ -1,4 +1,4 @@
-class model_preperation:
+class damp:
     def __init__(self, display_=True, plot_=True, data='/kaggle/input', sep_=','):
         self.check_modules()
         self.import_libraries()
